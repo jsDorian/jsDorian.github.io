@@ -1,1 +1,2 @@
-# vertix.me
+# Vertix
+# https://www.vertix.me
