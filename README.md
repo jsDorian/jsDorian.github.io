@@ -1,2 +1,1 @@
-# vertix
- 
+# vertix.me
