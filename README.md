@@ -1,2 +1,2 @@
 # Vertix
-* * https://www.vertix.me
+- - https://www.vertix.me
