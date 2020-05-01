@@ -32,7 +32,10 @@ body {
 	position: fixed;
 	top: 0px;
 	pointer-events: none;
-	font-size: 1em;
+	font-size: 3em;
+	text-align: center;
+	padding-top: 42%;
+	font-family: sans-serif;
 }
 
 #particles-js-front {
