@@ -28,9 +28,8 @@ body {
 	max-height: 100%;
 	max-width: 100%;
 	width: 100%;
-	height: 100%;
 	position: fixed;
-	top: 0px;
+	top: 43%;
 	pointer-events: none;
 	font-size: 3em;
 	text-align: center;
