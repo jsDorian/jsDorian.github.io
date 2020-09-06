@@ -21,7 +21,6 @@ body {
 
 #message {
 	z-index: 0;
-	background-image: url("particle-js-msg-test.png");
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
